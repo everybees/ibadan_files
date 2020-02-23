@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "proposed_drainage_bridges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "reference": "B1", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 4.009734158541992, 7.382417091264321 ] } },
+{ "type": "Feature", "properties": { "reference": "B2", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.91640345523582, 7.49071313398081 ] } },
+{ "type": "Feature", "properties": { "reference": "B3", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.913750334830615, 7.489193176718948 ] } },
+{ "type": "Feature", "properties": { "reference": "B4", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.956913960981233, 7.541799117873287 ] } },
+{ "type": "Feature", "properties": { "reference": "B5", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.84457093719822, 7.406283080891943 ] } },
+{ "type": "Feature", "properties": { "reference": "B6", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.847526742174479, 7.382842269242222 ] } },
+{ "type": "Feature", "properties": { "reference": "B7", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.852193460210795, 7.360176054648214 ] } },
+{ "type": "Feature", "properties": { "reference": "B8", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.858527543054539, 7.337202823440456 ] } },
+{ "type": "Feature", "properties": { "reference": "B9", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.861001874399198, 7.331175221491876 ] } },
+{ "type": "Feature", "properties": { "reference": "B10", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.865084971773379, 7.292848749301725 ] } },
+{ "type": "Feature", "properties": { "reference": "B11", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.997135777140898, 7.30460240795854 ] } },
+{ "type": "Feature", "properties": { "reference": "B12", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.93737709495578, 7.357061240364426 ] } },
+{ "type": "Feature", "properties": { "reference": "B13", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.937751839732951, 7.339019368593075 ] } },
+{ "type": "Feature", "properties": { "reference": "B14", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.938212048556738, 7.324345990505257 ] } },
+{ "type": "Feature", "properties": { "reference": "B15", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.872982105007679, 7.243438737602155 ] } },
+{ "type": "Feature", "properties": { "reference": "B19", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.945150193763412, 7.331567918837691 ] } },
+{ "type": "Feature", "properties": { "reference": "B18", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 4.018008230289575, 7.411923568363713 ] } },
+{ "type": "Feature", "properties": { "reference": "B17", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 4.019669760047954, 7.434511121771724 ] } },
+{ "type": "Feature", "properties": { "reference": "B16", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 4.016201561431734, 7.44425747087584 ] } },
+{ "type": "Feature", "properties": { "reference": "B20", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.90499076871732, 7.554643300582979 ] } },
+{ "type": "Feature", "properties": { "reference": "B22", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.896614175837742, 7.544228148307626 ] } },
+{ "type": "Feature", "properties": { "reference": "B21", "type": "Proposed Bridge" }, "geometry": { "type": "Point", "coordinates": [ 3.884021925522572, 7.542681868192856 ] } }
+]
+}
